@@ -14,7 +14,7 @@ gStartT = 0
 gEndT = 0
 
 
-url = "http://10.1.2.78:8880/savemsg/"
+url = "private URL"
 
 mylock = threading.RLock()
 class writeThread(threading.Thread):
